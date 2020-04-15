@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Shop from Home",
+    "slug": "Shop-from-Home",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.StormTroopers.Shop-from-Home"
+    },
+    "description": "Help the people to essential products during lockadown and vendors and local home run bussinesses to expand.",
+    "githubUrl": "https://github.com/storm-troopers/covid-tackler-frontend"
+  }
+}
